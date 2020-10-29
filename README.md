@@ -1,2 +1,2 @@
 # snapchat-Check
-checker snapchat use proxy and sleep
+#checker snapchat use proxy and sleep
